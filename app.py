@@ -219,8 +219,8 @@ def main() -> int:
         print(" IXL GOD V1.0")
         print(" 1. Wait for the browser to load, then log into IXL")
         print(" 2. Navigate to a multiple choice English skill")
-        print(" 3. Press Enter here to start the loop.")
-        print(" As it is the first version, it is quite buggy")
+        print(" 3. Press Enter here to start the loop")
+        print(" As it is the first version, it is quite buggy and may break")
         print("=" * 60)
         try:
             input()
